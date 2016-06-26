@@ -6,14 +6,14 @@
 
 ## 效果图
 
-![效果图1](https://github.com/LinLshare/Android-Common-Function/blob/master/img/20160626_130957.png)
+![效果图1](https://github.com/LinLshare/Gank.io.girl/blob/master/img/20160626_130957.png)
 
-![效果图2](https://github.com/LinLshare/Android-Common-Function/blob/master/img/20160626_131026.png)
+![效果图2](https://github.com/LinLshare/Gank.io.girl/blob/master/img/20160626_131026.png)
 
 
 
 ```
-Copyright 2016 Nightonke
+Copyright 2016 Lshare
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
